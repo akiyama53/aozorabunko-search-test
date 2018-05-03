@@ -1,0 +1,1 @@
+print('aozorabunko-search-test')
